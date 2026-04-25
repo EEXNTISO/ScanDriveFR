@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Un userscript léger et non intrusif qui récupère automatiquement le code EAN et génère un code-barres sur les fiches produits des principaux supermarchés en ligne (Drives).
+Un userscript léger et non intrusif qui récupère automatiquement le code EAN et génère un code-barres sur les fiches produits des principaux supermarchés en ligne (drives).
 
 <img width="720" height="410" alt="interface" src="https://github.com/user-attachments/assets/5404f141-df0a-4339-97fb-5e621f870ccd" />
 
@@ -22,7 +22,7 @@ Il vous suffit de scanner le code-barres généré avec votre application mobile
 - **Interface non intrusive et déplaçable** : Panneau flottant discret. Vous pouvez le **glisser-déposer** où vous voulez, et le script mémorisera sa position pour vos prochaines visites.
 - **Scores Santé & Écologie (API Open Food Facts)** : Affiche instantanément le **Nutri-Score**, le **Score NOVA** (degré de transformation) et l'**Éco-Score** du produit.
 - **Code-barres intégré** : Génère et affiche un code-barres (format EAN-13) scannable directement sur l'écran.
-- **Copie rapide** : Bouton permettant de copier le code EAN dans le presse-papiers en un clic (avec retour visuel "Copié !").
+- **Copie rapide** : Bouton permettant de copier le code EAN dans le presse-papiers en un clic.
 
 ## 🚀 Installation
 

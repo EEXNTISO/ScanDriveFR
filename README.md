@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Un **UserScript** (script utilisateur) léger, optimisé et non intrusif qui récupère automatiquement le code EAN et génère un code-barres sur les fiches produits des principaux supermarchés en ligne (Drives).
+Un userscript léger et non intrusif qui récupère automatiquement le code EAN et génère un code-barres sur les fiches produits des principaux supermarchés en ligne (Drives).
 
 ## 🎯 Pourquoi utiliser ce script ?
 
@@ -11,7 +11,7 @@ Le but principal est de vous permettre de **scanner facilement les valeurs nutri
 
 Il vous suffit de scanner le code-barres généré avec votre application mobile favorite, comme :
 - **[Yuka](https://yuka.io/)**
-- **[QuelProduit](https://www.quechoisir.org/application-mobile-quelproduit-n86007/)** (par UFC-Que Choisir)
+- **[QuelProduit](https://www.quechoisir.org/application-mobile-quelproduit-n84731/)** (par UFC-Que Choisir)
 
 ## ✨ Fonctionnalités
 
@@ -24,7 +24,7 @@ Il vous suffit de scanner le code-barres généré avec votre application mobile
 ## 🚀 Installation
 
 1. Installez l'extension **[Tampermonkey](https://www.tampermonkey.net/)** pour votre navigateur (Chrome, Firefox, Safari, Edge).
-2. Une fois l'extension installée, **[cliquez ici pour installer le script](https://raw.githubusercontent.com/EEXNTISO/ELeclerc-Drive-EAN-Helper/main/E.Leclerc%20Drive%20%E2%80%A2%20EAN%20Helper%20(floating%2C%20non-intrusive)-4.0.user.js)** (Ce lien fonctionnera une fois le script publié sur votre dépôt).
+2. Une fois l'extension installée, **[cliquez ici pour installer le script](https://raw.githubusercontent.com/EEXNTISO/ELeclerc-Drive-EAN-Helper/main/E.Leclerc%20Drive%20%E2%80%A2%20EAN%20Helper%20(floating%2C%20non-intrusive)-4.0.user.js)**
 3. Allez sur n'importe quelle fiche produit d'un Drive supporté et le panneau apparaîtra !
 
 ## 🛒 Drives supportés

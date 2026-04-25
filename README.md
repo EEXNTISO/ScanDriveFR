@@ -5,6 +5,9 @@
 
 Un userscript léger et non intrusif qui récupère automatiquement le code EAN et génère un code-barres sur les fiches produits des principaux supermarchés en ligne (Drives).
 
+<img width="720" height="410" alt="interface" src="https://github.com/user-attachments/assets/5404f141-df0a-4339-97fb-5e621f870ccd" />
+
+
 ## 🎯 Pourquoi utiliser ce script ?
 
 Le but principal est de vous permettre de **scanner facilement les valeurs nutritionnelles et la composition des produits** directement depuis l'écran de votre ordinateur. 

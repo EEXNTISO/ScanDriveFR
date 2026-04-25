@@ -24,7 +24,7 @@ Il vous suffit de scanner le code-barres généré avec votre application mobile
 ## 🚀 Installation
 
 1. Installez l'extension **[Tampermonkey](https://www.tampermonkey.net/)** pour votre navigateur (Chrome, Firefox, Safari, Edge).
-2. Une fois l'extension installée, **[cliquez ici pour installer le script](https://raw.githubusercontent.com/EEXNTISO/ELeclerc-Drive-EAN-Helper/main/E.Leclerc%20Drive%20%E2%80%A2%20EAN%20Helper%20(floating%2C%20non-intrusive)-4.0.user.js)**
+2. Une fois l'extension installée, **[cliquez ici pour installer le script](https://github.com/EEXNTISO/ELeclerc-Drive-EAN-Helper/raw/refs/heads/main/ScanDrive%20FR%20:%20Codes-barres%20&%20Nutri-Score.user.js)**
 3. Allez sur n'importe quelle fiche produit d'un Drive supporté et le panneau apparaîtra !
 
 ## 🛒 Drives supportés
